@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.da52006c.chunk.css",
-    "main.js": "/static/js/main.e191841f.chunk.js",
-    "main.js.map": "/static/js/main.e191841f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.062d2874.js",
-    "runtime-main.js.map": "/static/js/runtime-main.062d2874.js.map",
-    "static/js/2.7d31f8bd.chunk.js": "/static/js/2.7d31f8bd.chunk.js",
-    "static/js/2.7d31f8bd.chunk.js.map": "/static/js/2.7d31f8bd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a6720e3d4c1c5b60377fdcab5b908e4d.js": "/precache-manifest.a6720e3d4c1c5b60377fdcab5b908e4d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.da52006c.chunk.css.map": "/static/css/main.da52006c.chunk.css.map",
-    "static/js/2.7d31f8bd.chunk.js.LICENSE.txt": "/static/js/2.7d31f8bd.chunk.js.LICENSE.txt",
-    "static/media/eye.png": "/static/media/eye.6bec8927.png",
-    "static/media/new.png": "/static/media/new.004dfad8.png"
+    "main.css": "/react-first-blogpost.github.io/static/css/main.da52006c.chunk.css",
+    "main.js": "/react-first-blogpost.github.io/static/js/main.b946ac53.chunk.js",
+    "main.js.map": "/react-first-blogpost.github.io/static/js/main.b946ac53.chunk.js.map",
+    "runtime-main.js": "/react-first-blogpost.github.io/static/js/runtime-main.b33dded7.js",
+    "runtime-main.js.map": "/react-first-blogpost.github.io/static/js/runtime-main.b33dded7.js.map",
+    "static/js/2.7d31f8bd.chunk.js": "/react-first-blogpost.github.io/static/js/2.7d31f8bd.chunk.js",
+    "static/js/2.7d31f8bd.chunk.js.map": "/react-first-blogpost.github.io/static/js/2.7d31f8bd.chunk.js.map",
+    "index.html": "/react-first-blogpost.github.io/index.html",
+    "precache-manifest.40614b1cd2822fb1eac4927952574b4e.js": "/react-first-blogpost.github.io/precache-manifest.40614b1cd2822fb1eac4927952574b4e.js",
+    "service-worker.js": "/react-first-blogpost.github.io/service-worker.js",
+    "static/css/main.da52006c.chunk.css.map": "/react-first-blogpost.github.io/static/css/main.da52006c.chunk.css.map",
+    "static/js/2.7d31f8bd.chunk.js.LICENSE.txt": "/react-first-blogpost.github.io/static/js/2.7d31f8bd.chunk.js.LICENSE.txt",
+    "static/media/eye.png": "/react-first-blogpost.github.io/static/media/eye.6bec8927.png",
+    "static/media/new.png": "/react-first-blogpost.github.io/static/media/new.004dfad8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.062d2874.js",
+    "static/js/runtime-main.b33dded7.js",
     "static/js/2.7d31f8bd.chunk.js",
     "static/css/main.da52006c.chunk.css",
-    "static/js/main.e191841f.chunk.js"
+    "static/js/main.b946ac53.chunk.js"
   ]
 }
